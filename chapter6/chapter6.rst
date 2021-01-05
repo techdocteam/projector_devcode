@@ -9,7 +9,7 @@
 
     投影机显示关闭屏幕
 
-.. image:: images/c6_turnofftheprojector.png
+.. image:: ../images/c6_turnofftheprojector.png
 .. note:: 不使用时关闭投影仪以延长其寿命
 
 **再按一下电源按钮（要保持开启，请按任何其他按钮）**
