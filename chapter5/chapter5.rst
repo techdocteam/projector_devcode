@@ -12,7 +12,7 @@
 
 以mac OS Catalina 10.15.7为例：
 
-.. image:: images/c5_mirrormode.png
+.. image:: ../images/c5_mirrormode.png
 
 **拓展模式**
 +++++++++++++++++++
@@ -22,4 +22,4 @@
 
 以mac OS Catalina 10.15.7为例：
 
-.. image:: images/c5_tuozhanmode.png
+.. image:: ../images/c5_tuozhanmode.png
