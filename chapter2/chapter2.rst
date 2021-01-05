@@ -6,4 +6,4 @@
 -1  若投影仪幕布放下，则跳过此步骤
 -2  若投影仪幕布未放下，则按下开关的⬇️箭头
 
-.. image:: images/c2_screen.jpeg
+.. image:: ../images/c2_screen.jpeg
