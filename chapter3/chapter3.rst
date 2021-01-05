@@ -24,7 +24,7 @@
 2. 将另⼀端连接到投影机上的 Computer 端⼝。
 3. 拧紧 VGA 连接器上的螺丝。
 
-.. image:: images/chapter3_01.png
+.. image:: ../images/chapter3_01.png
     :height: 200px
     :width: 400 px
     :alt: alternate text
@@ -35,7 +35,7 @@
 1. 将⾳频电缆连接到便携式电脑的⽿麦或⾳频输出插孔或台式电脑的 扬声器或⾳频输出端⼝。
 2. 将另⼀端连接到投影机的 Audio 端⼝。
 
-.. image:: images/chapter3_02.png
+.. image:: ../images/chapter3_02.png
     :height: 200px
     :width: 400 px
     :alt: alternate text
